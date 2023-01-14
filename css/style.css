@@ -1,8 +1,17 @@
 /* global */
 @import "./global/global.css";
+
 /* cabecalho header */
 @import "./global/header.css";
+
 /* home */
 @import "./home/introducao.css";
+@import "./home/tecnologia.css";
+
 /* utilidades */
 @import "./utilidades/componete.css";
+@import "./utilidades/tipografia.css";
+@import "./utilidades/cores.css";
+
+/* lista de bicicletas */
+@import "./bicicletas/bicicletas-lista.css";
