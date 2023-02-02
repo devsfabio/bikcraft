@@ -7,7 +7,7 @@
 /* home */
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
-
+@import "./home/parceiro.css";
 /* utilidades */
 @import "./utilidades/componete.css";
 @import "./utilidades/tipografia.css";
