@@ -8,6 +8,8 @@
 @import "./home/introducao.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiro.css";
+@import "./home/depoimento.css";
+
 /* utilidades */
 @import "./utilidades/componete.css";
 @import "./utilidades/tipografia.css";
