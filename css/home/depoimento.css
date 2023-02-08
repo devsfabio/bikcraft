@@ -46,9 +46,9 @@
   }
   .depoimento-conteudo {
     padding: 40px 20px;
-    justify-self: center;
+    margin: auto;
   }
   .depoimento img {
-    max-height: 500px;
+    max-height: 300px;
   }
 }
