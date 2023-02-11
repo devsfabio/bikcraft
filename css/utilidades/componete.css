@@ -47,6 +47,23 @@
 .botao.secundario:hover {
   background: var(--cor-9);
 }
+.botao.seta {
+  display: flex;
+  align-items: center;
+}
+.botao.seta::after {
+  content: "";
+  display: block;
+  width: 18px;
+  height: 10px;
+  margin-left: 12px;
+  background: url("../../lojas/icones/seta.svg");
+  transition: transform 0.2s;
+}
+.botao.seta:hover:after {
+  transform: translateX(8px);
+}
+
 .titulo-bg {
   padding-top: 60px;
   padding-bottom: 60px;
